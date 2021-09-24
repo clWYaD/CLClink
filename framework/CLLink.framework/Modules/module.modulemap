@@ -1,0 +1,6 @@
+framework module CLLink {
+  umbrella header "CLLink.h"
+
+  export *
+  module * { export * }
+}

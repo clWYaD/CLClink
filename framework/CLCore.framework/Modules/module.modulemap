@@ -1,0 +1,6 @@
+framework module CLCore {
+  umbrella header "CLCore.h"
+
+  export *
+  module * { export * }
+}
