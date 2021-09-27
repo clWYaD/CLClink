@@ -1,11 +1,10 @@
 
-
 Pod::Spec.new do |s|
 
   s.name         = "CLLink"
   s.version      = "1.0.0.0"
   s.summary      = "短链"
-  s.description  = "短链"
+  s.description  = "智能短链"
 
   s.homepage     = "http://sdk.253.com/"
   s.license      = { :type => "LGPL" }
